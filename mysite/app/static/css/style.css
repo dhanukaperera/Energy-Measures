@@ -1,0 +1,29 @@
+.recommended {
+    background-color: yellow;
+}
+
+th {
+    font-weight: bold;
+    background-color: #f0f0f0;
+}
+
+td {
+    padding: 5px;
+}
+
+table {
+    border-spacing: 0 10px;
+}
+
+.total-label {
+    text-align: right;
+    font-weight: bold;
+}
+
+.total-cost {
+    font-weight: bold;
+}
+
+.box {
+    width: fit-content;
+}
